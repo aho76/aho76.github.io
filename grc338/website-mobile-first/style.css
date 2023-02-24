@@ -116,7 +116,7 @@ p.slogan {
 	font-size: 4.5em;
 	font-family: serif;
 	font-style: italic;
-	margin: .25em .15em 1em;
+	margin: .5em .25em 1em;
 	color: rgb(250, 250, 250);	
 	}
 	
@@ -137,4 +137,3 @@ address {
 footer p {
 	margin: 0;
 }
-
