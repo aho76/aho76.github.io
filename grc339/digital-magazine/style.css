@@ -213,4 +213,8 @@ footer p {
     section.secondary a p {
         flex: 0 0 4em;
     }
+
+    section.tertiary a p {
+        padding: 0em;
+    }
 }
